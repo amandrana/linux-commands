@@ -8,3 +8,6 @@ vi-text editor
 cat -to read text file
 token password-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
 git hub pass-ranadeesh@1717
+
+git push 
+git pull
