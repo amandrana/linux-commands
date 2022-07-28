@@ -4,5 +4,6 @@ rm(remove)-to remove a file
 mv(move)-to move any files
 cp(copy)-to copy any files
 grep-search particular string in text file
+git push/pull
 
 
